@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../InterfaceTest-master/.idea/InterfaceTest-master.iml" filepath="$PROJECT_DIR$/../InterfaceTest-master/.idea/InterfaceTest-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/auto_interface.iml" filepath="$PROJECT_DIR$/.idea/auto_interface.iml" />
+      <module fileurl="file://D:/python_study/bnd-hrm-api/.idea/bnd-hrm-api.iml" filepath="D:/python_study/bnd-hrm-api/.idea/bnd-hrm-api.iml" />
+      <module fileurl="file://D:/python_study/bnd_hrm_pytest_api/.idea/bnd_hrm_pytest_api.iml" filepath="D:/python_study/bnd_hrm_pytest_api/.idea/bnd_hrm_pytest_api.iml" />
+      <module fileurl="file://D:/python_study/python3+selenium/coding-269/.idea/coding-269.iml" filepath="D:/python_study/python3+selenium/coding-269/.idea/coding-269.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guest/.idea/guest.iml" filepath="$PROJECT_DIR$/../guest/.idea/guest.iml" />
+      <module fileurl="file://D:/python_study/hrm_test/.idea/hrm_test.iml" filepath="D:/python_study/hrm_test/.idea/hrm_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../p22naf/.idea/p22naf.iml" filepath="$PROJECT_DIR$/../p22naf/.idea/p22naf.iml" />
+    </modules>
+  </component>
+</project>
